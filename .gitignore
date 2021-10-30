@@ -4,5 +4,6 @@
 /backend/images/*.jpg
 /backend/images/*.jpeg
 /backend/images/*.png
+/backend/!images
 .idea/*
 .vscode/*
