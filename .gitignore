@@ -1,9 +1,8 @@
 /frontend
 /backend/node_modules/*
 /backend/.env
-/backend/images/*.jpg
-/backend/images/*.jpeg
-/backend/images/*.png
-/backend/!images
+/backend/!images/*.jpeg
+/backend/!images/*.png
+/backend/!images/*.jpg
 .idea/*
 .vscode/*
