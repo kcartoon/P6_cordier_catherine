@@ -2,6 +2,6 @@
 /backend/node_modules/*
 /backend/.env
 /backend/!images/
-/*.jpeg
+*.jpeg
 .idea/*
 .vscode/*
