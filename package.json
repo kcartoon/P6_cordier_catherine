@@ -1,0 +1,19 @@
+{
+  "name": "p6_catherine_cordier",
+  "version": "1.0.0",
+  "description": "#Création d'une API sécurisée pour une application d'évaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcartoon/P6_catherine_cordier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcartoon/P6_catherine_cordier/issues"
+  },
+  "homepage": "https://github.com/kcartoon/P6_catherine_cordier#readme"
+}
